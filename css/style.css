@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #2C3E50;
+    position: fixed;
+    top: 0;
+}
+main{
+    background-color: #1ABC9C;
+    margin-top: 100px;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    border: red dashed;
+}
+.box-small{
+    height: 250px;
+    width: 250px;
+    border: red dashed;
+}
