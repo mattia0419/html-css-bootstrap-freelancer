@@ -84,3 +84,8 @@ h5 a{
 .green{
     color: #1ABC9C;
 }
+footer{
+    background-color: #2C3E50;
+    color: white;
+    height: 90px;
+}
