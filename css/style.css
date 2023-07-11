@@ -60,3 +60,20 @@ h5 a{
 .p-b{
     padding-bottom: 80px;
 }
+.b-b{
+    border: transparent;
+    border-bottom: solid 2px #EBEBEB;
+    padding: 15px;
+}
+::-webkit-input-placeholder{
+    color: black;
+}
+.submit{
+    background-color: #1ABC9C;
+    color: white;
+    border: transparent;
+    border-radius: 12px;
+    padding: 10px;
+    width: 70px;
+    margin-top: 15px;
+}
